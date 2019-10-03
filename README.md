@@ -2,12 +2,24 @@
 Учебные пособия и материалы для самостоятельного изучения для курса Movavi School по разработке игр на Unity3D за 2019/2020 год.
 
 
-## Уроки
+## Содержание
+
+### Уроки
 * [Урок 01](#урок-01)
 * [Урок 02](#урок-02)
 
+### Самостоятельное изучение
+* Документация по Unity
+* Видео уроки:
+* Текстовые уроки:
+* Платные видеокурсы и книги:
+* Game design:
+* Инди-игры:
+* Инди-game-сообщества:
 
-## Урок 01
+---
+
+### Урок 01
 
 [Ассеты для первого урока](https://drive.google.com/open?id=1PndJCuiVtKHedwrAsDKYNJuldmzs7eJz)
 
@@ -52,7 +64,7 @@
 14. Создать скрипт для шарика, чтобы он следовал за платформой на заданном изначально расстоянии.
 
 
-## Урок 02
+### Урок 02
 
 [Ассеты для второго урока](https://drive.google.com/open?id=1rQOE5xpHcV8W8Tvb4Ed5oQsGQ-DaD8Yv)  
 [Готовый проект для второго урока](https://drive.google.com/open?id=1kwke5qKK7XROAghA_r_cxQNjSmniqJQ6)
@@ -77,3 +89,63 @@
 7. Проигрывание звука при разрушении блока
 
 8. Создание своего уровня из блоков разного цвета
+
+---
+
+## Самостоятельное изучение
+
+### Документация по Unity
+* https://docs.unity3d.com/Manual/index.html 
+* https://forum.unity.com/ 
+* https://answers.unity.com/index.html 
+* https://stackoverflow.com/questions/tagged/unity3d 
+
+### Видео уроки:
+* https://learn.unity.com/ 
+* https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg 
+* https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA 
+* https://www.youtube.com/user/SykooTV 
+* https://www.youtube.com/user/Cercopithecan 
+* https://www.youtube.com/channel/UCHM37DnT_QGJT5Zyl4EmqcA/featured 
+* https://www.youtube.com/playlist?list=PLGp0Y-yHLA-_PGtqama4XP1CGgXwlqsX9
+* https://www.youtube.com/channel/UC7P6olyswpgJlElZA6RXUNQ
+
+### Текстовые уроки:
+* https://catlikecoding.com/unity/tutorials/ 
+* https://www.alanzucconi.com/tutorials/ 
+
+### Платные видеокурсы и книги:
+* https://www.udemy.com/unitycourse/ 
+* https://www.udemy.com/unitycourse2/ 
+* https://www.ozon.ru/context/detail/id/34792570/ 
+* https://www.ozon.ru/context/detail/id/149333515/ 
+
+### Game design:
+* https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ 
+* https://www.youtube.com/playlist?list=PLBmERAe8ffebQIbaFc6WqahtWsOIHoAMz 
+* http://narratorika.com/ 
+* https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw 
+* https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw 
+* https://dtf.ru/gamedev 
+* https://www.ozon.ru/context/detail/id/151117665/ 
+* https://www.coursera.org/specializations/game-development
+* https://www.coursera.org/specializations/game-design
+* http://aushestov.ru/
+* http://level-design.ru/
+* https://www.youtube.com/user/ExtraCreditz/videos
+
+### Инди-игры:
+* https://itch.io/ 
+* https://gamejolt.com/ 
+* https://www.indiegamewebsite.com/ 
+* https://www.indiegamewebsite.com/2019/06/24/the-100-best-indie-pc-games/ 
+* https://www.indiegamewebsite.com/2018/05/11/the-100-best-indie-games-of-all-time/ 
+* https://www.rockpapershotgun.com/ 
+* https://www.youtube.com/channel/UCylVqS5Hk_i175AyCeYKT2w 
+
+### Инди-game-сообщества:
+* https://vk.com/last_indie_standing 
+* https://vk.com/ggdev 
+* https://vk.com/igrologia_vk 
+* https://vk.com/mooshigames   
+* https://vk.com/gdcuffs 
