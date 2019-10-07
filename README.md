@@ -40,7 +40,7 @@ __Arkanoid__ — видеоигра для игровых автоматов, р
 
 ### Урок 01
 
-[Ассеты для первого урока](https://drive.google.com/open?id=1RutbCKuZoJ7GvpjKGVUZcl4bRQFdkCiH)
+[Ассеты для первого урока](https://drive.google.com/open?id=1RutbCKuZoJ7GvpjKGVUZcl4bRQFdkCiH)  
 [Готовый проект первого урока](https://drive.google.com/open?id=1yxAPA8qwG-PNlEk1EpV2Rb0WOV_YUi1l)
 
 1. Создание проекта.  
@@ -86,7 +86,7 @@ __Arkanoid__ — видеоигра для игровых автоматов, р
 
 ### Урок 02
 
-[Ассеты для второго урока](https://drive.google.com/open?id=1yN7JlBp5GGdfvQF4x6VkKaMmn7BSTw9d)
+[Ассеты для второго урока](https://drive.google.com/open?id=1yN7JlBp5GGdfvQF4x6VkKaMmn7BSTw9d)  
 
 1. Поведение шарика  
    Написать скрипт поведения шарика - в начале игры следует за платформой, после нажатия мыши получает ускорение вверх, затем не подчиняется прямому управлению
