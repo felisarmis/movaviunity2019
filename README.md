@@ -112,10 +112,7 @@ __Arkanoid__ — видеоигра для игровых автоматов, р
 2. Воспроизведение звука при разрушении блока
 3. Работа с префабами
 4. Создание префаба из блока
-5. Подсчет блоков на уровне
-6. Скрипт загрузки следующего уровня при разрушении всех блоков
-7. Создание префабов для всех необходимых элементов
-8. Создание второго уровня из префабов объектов
+5. Создание первого уровня из блока-префаба
 
 ---
 
@@ -152,7 +149,8 @@ __Arkanoid__ — видеоигра для игровых автоматов, р
 * https://www.youtube.com/playlist?list=PLBmERAe8ffebQIbaFc6WqahtWsOIHoAMz 
 * http://narratorika.com/ 
 * https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw 
-* https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw 
+* https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw
+* https://www.youtube.com/channel/UCBDLWj5X5D9bvBa3JIMMTIQ
 * https://dtf.ru/gamedev 
 * https://www.ozon.ru/context/detail/id/151117665/ 
 * https://www.coursera.org/specializations/game-development
