@@ -184,7 +184,7 @@ __Arkanoid__ — видеоигра для игровых автоматов, р
 
 ### Урок 09
 
-[Готовый проект девятого урока](https://drive.google.com/open?id=15F5bEBrLuuSjELfZMdkw7QDKcLsxwO6q9BpVlQvVhzw)  
+[Готовый проект девятого урока](https://drive.google.com/open?id=12O3jHqll_2DsF63Ei4cLADu0AnRDGsHE)  
 
 1. Бонус дублирования мяча
 2. Бонус изменения скорости игры
