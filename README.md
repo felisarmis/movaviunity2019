@@ -8,10 +8,10 @@
 
 
 ## Самостоятельное изучение:  
-* [Документация по Unity](#документация-по-unity)
-* [Видео уроки](#видео-уроки)
-* [Текстовые уроки](#текстовые-уроки)
-* [Платные видеокурсы и книги](#платные-видеокурсы-и-книги)
-* [Game design](#game-design)
-* [Инди-игры](#инди-игры)
-* [Инди-game-сообщества](#инди-game-сообщества)
+* [Документация по Unity](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#документация-по-unity)
+* [Видео уроки](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#видео-уроки)
+* [Текстовые уроки](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#текстовые-уроки)
+* [Платные видеокурсы и книги](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#платные-видеокурсы-и-книги)
+* [Game design](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#game-design)
+* [Инди-игры](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#инди-игры)
+* [Инди-game-сообщества](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#инди-game-сообщества)
