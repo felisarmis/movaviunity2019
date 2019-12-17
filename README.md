@@ -3,11 +3,18 @@
 
 
 ## Проекты:
-### [Arkanoid](https://github.com/felisarmis/movaviunity2019/blob/master/arkanoid.md)
-### [Ruby's Adventure](https://github.com/felisarmis/movaviunity2019/blob/master/ruby.md)
+* [Arkanoid](https://github.com/felisarmis/movaviunity2019/blob/master/arkanoid.md)
+* [Ruby's Adventure](https://github.com/felisarmis/movaviunity2019/blob/master/ruby.md)
 
 
 ---
 
 
-## [Самостоятельное изучение](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md)
+## Самостоятельное изучение  
+* [Документация по Unity](#документация-по-unity)
+* [Видео уроки](#видео-уроки)
+* [Текстовые уроки](#текстовые-уроки)
+* [Платные видеокурсы и книги](#платные-видеокурсы-и-книги)
+* [Game design](#game-design)
+* [Инди-игры](#инди-игры)
+* [Инди-game-сообщества](#инди-game-сообщества)
