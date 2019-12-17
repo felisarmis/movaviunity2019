@@ -3,8 +3,11 @@
 
 
 ## Проекты:
-* ### [Arkanoid](https://github.com/felisarmis/movaviunity2019/blob/master/arkanoid.md)
-* ### [Ruby's Adventure](https://github.com/felisarmis/movaviunity2019/blob/master/ruby.md)
+### [Arkanoid](https://github.com/felisarmis/movaviunity2019/blob/master/arkanoid.md)
+### [Ruby's Adventure](https://github.com/felisarmis/movaviunity2019/blob/master/ruby.md)
+
+
+---
 
 
 ## [Самостоятельное изучение](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md)
