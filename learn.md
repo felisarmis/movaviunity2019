@@ -64,3 +64,4 @@
 * https://vk.com/ggdev 
 * https://vk.com/igrologia_vk 
 * https://vk.com/mooshigames 
+* https://vk.com/gdcuffs 
