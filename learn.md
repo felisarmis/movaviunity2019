@@ -18,6 +18,9 @@
 * https://www.youtube.com/channel/UCHM37DnT_QGJT5Zyl4EmqcA/featured 
 * https://www.youtube.com/playlist?list=PLGp0Y-yHLA-_PGtqama4XP1CGgXwlqsX9
 * https://www.youtube.com/channel/UC7P6olyswpgJlElZA6RXUNQ
+* https://www.youtube.com/user/newbquesttv/videos
+* https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/videos
+* https://www.youtube.com/channel/UCs2DJ9xpGic1pQkWNMwAUHw/videos
 
 ## Текстовые уроки:
 * https://catlikecoding.com/unity/tutorials/ 
@@ -59,3 +62,8 @@
 * https://vk.com/igrologia_vk 
 * https://vk.com/mooshigames 
 * https://vk.com/gdcuffs 
+
+## Источники ассетов
+* https://itch.io/game-assets/free
+* https://assetstore.unity.com/2d?category=2d&price=0-225&free=true&orderBy=1
+* https://www.kenney.nl/assets
