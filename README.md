@@ -15,3 +15,4 @@
 * [Game design](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#game-design)
 * [Инди-игры](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#инди-игры)
 * [Инди-game-сообщества](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#инди-game-сообщества)
+* [Источники ассетов](https://github.com/felisarmis/movaviunity2019/blob/master/learn.md#источники-ассетов)
