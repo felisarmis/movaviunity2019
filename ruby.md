@@ -105,5 +105,7 @@
 3. Передвижение робота по массиву точек пути.
 4. Настройка анимации робота для передвижения по маршруту.
 
+:zap: [Законченный проект тринадцатого блока](https://drive.google.com/open?id=1KevQhpAw5H1whC0HjMhQFtMOj8BVXH5J) [без самостоятельных заданий].
+
 ## 14. Продвинутый робот: A* Pathfinding
 Настройка 2d pathfinding робота через https://arongranberg.com/astar/
