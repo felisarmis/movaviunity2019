@@ -108,4 +108,7 @@
 :zap: [Законченный проект тринадцатого блока](https://drive.google.com/open?id=1KevQhpAw5H1whC0HjMhQFtMOj8BVXH5J) [без самостоятельных заданий].
 
 ## 14. Продвинутый робот: A* Pathfinding
-Настройка 2d pathfinding робота через https://arongranberg.com/astar/
+1. Установка плагина A* Pathfinding https://arongranberg.com/astar/download.
+2. Создание графа для поиска путей.
+3. Настройка плагина для следования робота за игроком.
+4. Совмещение поведений патрулирования и преследования.
