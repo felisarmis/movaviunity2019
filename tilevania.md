@@ -2,7 +2,7 @@
 
 ## 01. Создание проекта, игровой мир
 1. Создание проекта.
-2. Импорт ассетов из [архива](https://drive.google.com/open?id=1XojHK5-xMS-rArqV9CuLsmwujj4LpSDb).
+2. Импорт ассетов из [архива](https://drive.google.com/open?id=1LsitknO6WjWiJfPcGBG0VgxkmRpkHoUU).
 3. Создание и редактирование __TilePalette__.
 4. Работа с [2d-extras](https://github.com/Unity-Technologies/2d-extras) - __RuleTiles__.
 5. Работа с __SpriteShapes__.
