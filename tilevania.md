@@ -24,3 +24,10 @@
 3. Переключение между несколькими камерами.
 4. Анимация и поведение врагов.    
 5. __BONUS__: Post Processing Stack.
+
+:zap: [Готовый проект третьего блока](https://drive.google.com/open?id=1TzBIxMFvObTPiCXAVmRNqClofJ3oilVX)
+
+## 04. Смерть и препятствия
+1. Состояние смерти персонажа.
+2. Препятствия: [шипы](https://drive.google.com/open?id=14MnHw0J-W9HwauVBoC97u8jusy23K_Oh) и вода.
+3. Переход на следующий уровень.
