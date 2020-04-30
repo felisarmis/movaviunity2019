@@ -32,6 +32,8 @@
 2. Препятствия: [шипы](https://drive.google.com/open?id=14MnHw0J-W9HwauVBoC97u8jusy23K_Oh) и вода.
 3. Переход на следующий уровень.
 
+:zap: [Готовый проект четвертого блока](https://drive.google.com/open?id=1OXm8H8Kj7QLEYvqtTezMI7YOKN92U7py)
+
 ## 05. Завершение проекта.
 1. Жизни и перенос жизней между уровнями.
 2. Сохранение собранных предметов.
